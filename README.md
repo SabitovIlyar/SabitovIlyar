@@ -2,7 +2,7 @@
 I'm Ilyar Sobitov. I am Frontend Developer (beginner).
 <!--
 **SabitovIlyar/SabitovIlyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github-readme-stats.vercel.app/api?username=SabitovIlyar&show_icons=true&theme=dark" width="400">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
