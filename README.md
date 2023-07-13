@@ -15,6 +15,6 @@
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=sabitovilyar&show_icons=true&theme=dark&title_color=ffffff&text_color=c9c9c9&cache_seconds=1800&locale=en" alt="sabitovilyar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabitovilyar&theme=dark" alt="sabitovilyar" /></p>
-
+![Codewars](https://github.r2v.ch/codewars?user=Ilyar_S&top_languages=true&stroke=%23BB432C)
 
 
