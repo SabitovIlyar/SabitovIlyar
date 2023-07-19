@@ -16,10 +16,5 @@
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=sabitovilyar&show_icons=true&theme=dark&title_color=ffffff&text_color=c9c9c9&cache_seconds=1800&locale=en" alt="sabitovilyar" /></p>
 
 <p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=sabitovilyar&theme=dark" alt="sabitovilyar" /></p>
-<p align="" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=Ilyar_S&name=true&top_languages=true&stroke=%23ffffff&hide_clan=true" />
-    </a>
-</p>
 
 
